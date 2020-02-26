@@ -1,0 +1,4 @@
+utfcpp
+
+Url: https://github.com/nemtrif/utfcpp
+Version: 1537543999978d3a0464560a9a940d6140c6ba59
